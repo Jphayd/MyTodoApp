@@ -21,7 +21,8 @@ public class TodoList {
     private TodoItem[] todoItems;
     private int count;
 
-    // Constructor
+// edits changes commits
+    // structuopnasfdsa
     public TodoList(int size) {
         todoItems = new TodoItem[size];
         count = 0;
