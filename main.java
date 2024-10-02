@@ -59,4 +59,10 @@ public class TodoList {
 }
 // manual repo changes
 
+<<<<<<< HEAD
 // add-date commit changes
+=======
+// big conflicting changes wow
+// add-date commit changes
+//more changes 
+>>>>>>> 2ec88f2153733c644060a785b749fae856e2662a
